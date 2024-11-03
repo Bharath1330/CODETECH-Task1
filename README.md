@@ -8,11 +8,13 @@
 
 **Overview of project**
 
-**project**:**Exploratory Data Analysis(EDA) on Lung Cancer Dataset**
-**Objective**
+**project**:**Exploratory Data Analysis(EDA) on Lung Cancer Dataset:**
+
+**Objective:**
 To conduct an exploratory data analysis (EDA) on a lung cancer dataset to identify key patterns, trends, and correlations that could reveal important insights into lung cancer risk factors, demographics, and potential predictive indicators. This analysis aims to uncover hidden structures in the data and inform feature engineering for future predictive modeling tasks.
 
 **Key Activities**
+
 1.Data Transformation: Apply necessary transformations, such as normalization or log transformations, to improve interpretability.
 2.Visualization: Create visualizations such as histograms, box plots, pair plots, and heatmaps to identify any patterns or anomalies visually.
 3.Feature Selection and Dimensionality Reduction: Evaluate features for their relevance to lung cancer indicators; apply PCA or other dimensionality reduction techniques if necessary.
